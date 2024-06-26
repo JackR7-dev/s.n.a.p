@@ -1,0 +1,209 @@
+# Scenes
+a beach at sunset
+a busy city street
+a serene forest
+a futuristic cityscape
+a cozy cabin in the mountains
+a snowy village
+a desert oasis
+a tropical island
+a bustling port
+a quiet countryside
+an ancient ruin
+a mysterious cave
+a vibrant coral reef
+a floating island in the sky
+a peaceful garden
+a dark and eerie swamp
+a majestic mountain range
+a vast savannah
+a historic battlefield
+a lush vineyard
+a magical enchanted forest
+a moonlit beach
+a rural farmhouse
+an underwater city
+a hidden waterfall
+a grand castle on a hill
+a lively festival
+a foggy marsh
+a crystal-clear lake
+a remote island with a lighthouse
+a lively amusement park
+a bustling train station
+a tranquil zen garden
+a vast desert landscape
+a quiet library
+a neon-lit alleyway
+a futuristic space colony
+a scenic mountain pass
+a whimsical fairy tale village
+a haunted mansion
+a colorful autumn forest
+a peaceful riverside town
+a medieval marketplace
+a picturesque vineyard
+a sunken shipwreck
+a starry night sky
+a snowy mountain peak
+a vibrant flower meadow
+a golden wheat field
+a stormy ocean scene
+a tranquil monastery
+
+# Objects
+a vintage car
+a beautiful butterfly
+a majestic lion
+a bustling marketplace
+a group of children playing
+a giant robot
+a magical castle
+a medieval knight
+a spaceship
+a pirate ship
+an elegant peacock
+a flying dragon
+a futuristic drone
+an antique clock
+a wise old owl
+a shimmering unicorn
+a mystical crystal ball
+a playful dolphin
+a powerful wizard
+a colorful hot air balloon
+a towering skyscraper
+a fierce tiger
+a classic steam train
+a dancing ballerina
+a mysterious masked figure
+a vibrant city park
+a charming street musician
+a magnificent fireworks display
+a golden treasure chest
+a majestic eagle
+a whimsical fairy
+a roaring bonfire
+a sparkling chandelier
+a vintage typewriter
+a detailed world map
+a pair of ancient swords
+a delicate flower bouquet
+a traditional tea set
+a vibrant market stall
+a majestic waterfall
+a rustic wooden bridge
+a grand piano
+a steaming cup of coffee
+a cozy fireplace
+a detailed ship model
+a vibrant stained glass window
+a mystical potion bottle
+a beautifully wrapped gift
+
+# Styles
+in a realistic style
+in a cartoonish style
+in a surreal style
+in a minimalist style
+in a steampunk style
+in an abstract style
+in a gothic style
+in a retro style
+in a cyberpunk style
+in a fantasy style
+in an impressionist style
+in a modernist style
+in a baroque style
+in a pixel art style
+in a watercolor style
+in a pointillist style
+in a photorealistic style
+in a pop art style
+in an art nouveau style
+in a graffiti style
+in a line art style
+in a low-poly style
+in an oil painting style
+in a vintage postcard style
+in a mosaic style
+in a stained glass style
+in an anime style
+in a comic book style
+in a doodle art style
+in a pencil sketch style
+in a charcoal drawing style
+in a pastel drawing style
+in a chalkboard art style
+in a collage art style
+in a 3D rendering style
+in a digital painting style
+in a folk art style
+in a street art style
+in a contemporary art style
+in a futuristic style
+in a vintage cartoon style
+in a psychedelic style
+in a cubist style
+in a dadaist style
+in a kinetic art style
+in an op art style
+in a surrealist collage style
+in a rococo style
+in a renaissance style
+
+# Colors
+with vibrant colors
+in black and white
+with pastel colors
+in sepia tone
+with neon lights
+in a monochromatic scheme
+with a rainbow palette
+with muted tones
+with earthy colors
+with cool blues and greens
+with warm reds and yellows
+with contrasting colors
+with complementary colors
+with a metallic sheen
+with glowing effects
+with iridescent hues
+in a gradient color scheme
+with soft and subtle shades
+with bold and striking hues
+in a dark and moody palette
+with a splash of bright color
+in a high-contrast scheme
+with transparent elements
+with shimmering sparkles
+with a matte finish
+in jewel tones
+with soft pastels
+with a fiery red and orange palette
+with cool blues and purples
+with a natural green and brown scheme
+with vibrant pinks and purples
+with soothing neutrals
+with metallic gold and silver
+with a bright summer palette
+with icy winter colors
+with a springtime palette
+with autumnal hues
+in a monochrome blue scheme
+in a monochrome red scheme
+with high-key lighting
+with low-key lighting
+with a neon pastel mix
+with a retro 80s palette
+with dark, gothic tones
+with an electric blue and neon pink mix
+with a muted, vintage feel
+with tropical hues
+with a beachy pastel mix
+with rustic, earthy tones
+with soft, dreamy hues
+with futuristic metallics
+with elegant black and gold
+with playful, vibrant colors
+
