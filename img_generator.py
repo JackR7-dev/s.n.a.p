@@ -8,6 +8,8 @@ dir_list = os.listdir(output_path)
 
 # function that generate images based on prompt parameter. It cycle the image list directory so it can delete previuous generated images.
 # Then it run a command line to generate images and save it in the OUTPUT folder
+# CONTROLLARE L'ELIMINAZIONE DELLE IMMAGINI
+
 def generate_images(prompt):
     for img in dir_list:
         os.remove(output_path + "\\" + img)
