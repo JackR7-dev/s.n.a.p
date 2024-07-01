@@ -14,7 +14,3 @@ client = tweepy.Client(
     config.api_key_secret, 
     config.access_token, 
     config.access_token_secret)
-
-output_path = "E:\Files\Programming\Projects\S.N.A.P. (Smart Neural Art Poster)\OUTPUT"
-# getting the list of elements inside OUTPUT folder
-dir_list = os.listdir(output_path)

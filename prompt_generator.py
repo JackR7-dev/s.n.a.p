@@ -20,19 +20,24 @@ def load_template(file_path):
 
 # function that generate a random prompt using the file prompt_generator.txt
 def generate_random_prompt(categories):
-    random_prompt = random.choice(list(categories.get('Scenes'))) + " where there is " + random.choice(list(categories.get('Objects'))) + "." + "\n" + random.choice(list(categories.get('Styles'))) + " " + random.choice(list(categories.get('Colors')))
+    #random_prompt = 'ok. water'
+    random_prompt = random.choice(list(categories.get('Scenes'))) + " there is " + random.choice(list(categories.get('Objects'))) + ". " + random.choice(categories.get('Styles')) + " " + random.choice(list(categories.get('Colors')))
     return random_prompt
 
-# function that format the text of the tweet
+# function that return a string already formatted for the text of the tweet. After a dot it will capitalize the next char and add a new paragraph.
 def modify_random_prompt(random_prompt):
     modified_prompt = []
     capitalize_next = True
     index = 0
+    
+    for char in random_prompt:
+        if  char == " " and random_prompt[index-1] == ".":
+             modified_prompt.append('\n')
+             capitalize_next = True
+             index += 1
 
-    for char in random_prompt: 
         if char == '\n':
              capitalize_next = True
-
         if capitalize_next and char.isalpha():
               modified_prompt.append(char.upper())
               capitalize_next = False
@@ -40,4 +45,4 @@ def modify_random_prompt(random_prompt):
         else: 
             modified_prompt.append(char)
             index += 1
-    return ''.join(modified_prompt)
+    return ''.join(modified_prompt + list("."))
